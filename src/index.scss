@@ -1,0 +1,21 @@
+body {
+	box-sizing: border-box;
+	margin: 0;
+	font-family: 'Roboto', 'Montserrat', BlinkMacSystemFont, 'Segoe UI', 'Oxygen',
+		'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+		sans-serif !important;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	height: 90% !important;
+}
+
+code {
+	font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+		monospace;
+}
+
+
+a {
+	text-decoration: none;
+	color: var(--color-blue-btn);
+}
